@@ -1,0 +1,13 @@
+{
+    "name": "flip/chatbot",
+    "description": "this is a simple package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "flip1010",
+            "email": "developer.gov@gmail.com"
+        }
+    ],
+    "require": {}
+}
